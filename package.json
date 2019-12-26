@@ -1,0 +1,22 @@
+{
+  "name": "@akado117/test-npm2",
+  "version": "1.0.0",
+  "description": "another repo to test package nesting for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akado117/test-npm2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alex Kaidna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akado117/test-npm2/issues"
+  },
+  "homepage": "https://github.com/akado117/test-npm2#readme"
+}
